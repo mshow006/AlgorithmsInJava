@@ -1,2 +1,1 @@
-# AlgorithmsInJava
 algorithms in Java
